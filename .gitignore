@@ -1,0 +1,10 @@
+dist
+dist-newstyle
+*.ghc*
+*.o
+*.hi
+*.chi
+*.chs.h
+*.swp
+_cache
+_site
