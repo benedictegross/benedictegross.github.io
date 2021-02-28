@@ -1,3 +1,4 @@
+* [Espace contre-contre](http://contrecontre.com) 17. April - 15 Mai 2021, Vernissage Samstag 17. April 2021, 14 bis 19 Uhr
 * Jurierte Jahresausstellung der [Künstlervereinigung Zürich](http://kuenstlervereinigung.ch), Villa Grunholzer, Uster - 12. September bis 27. September 2020
 * [visarte Binz39](https://visarte-zuerich.ch/exhibitions/) - 13. Februar bis 22. Februar 2020
 * [standbyvisions](http://standbyvisions.ch) - 3. November bis 10. November 2019
